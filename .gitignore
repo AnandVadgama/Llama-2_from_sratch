@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ignore weights
+llama-2-*
+tokenizer.model
+sampling_tests.ipynb
+# Ignore macOS system files
+.DS_Store
