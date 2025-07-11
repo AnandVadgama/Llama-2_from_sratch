@@ -212,3 +212,6 @@ tokenizer.model
 sampling_tests.ipynb
 # Ignore macOS system files
 .DS_Store
+.vscode
+
+Llama3.2-1B/
